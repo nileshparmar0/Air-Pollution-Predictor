@@ -45,4 +45,4 @@ Script Details:
 ● Displaying Data: It prints the AQI and individual pollutant levels.
 ● Visualizing Data: It creates a pie chart of the pollutant levels, highlighting the pollutant with the highest value.
 
-Author: Nilesh Parmar
+Author: Nilesh Parmar https://www.linkedin.com/in/nilesh-parmar-/
